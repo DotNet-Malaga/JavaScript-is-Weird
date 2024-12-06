@@ -1,2 +1,2 @@
-# JavaScript-is-Weird
-En su charla en DotNetMálaga 2024, Małgorzata Janeczek (Gosia) abordó las afirmaciones populares sobre la supuesta "rareza" de JavaScript. Inspirándose en el formato de MythBusters, desmitificó casos frecuentemente citados, analizando si estas características de JavaScript son verdaderamente extrañas o simplemente malentendidas.
+# JavaScript is weird
+![Presentation image](https://pbs.twimg.com/media/GdEZJGTXAAA8Z1x?format=jpg&name=large)
